@@ -10,7 +10,6 @@ namespace ConsoleApp111
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi 2 all!");
         }
     }
 }
