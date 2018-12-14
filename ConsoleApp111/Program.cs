@@ -14,6 +14,7 @@ namespace ConsoleApp111
             Console.WriteLine("Hi 3 all!");
             Console.WriteLine("Hi 4 all!");
             Console.WriteLine("Hi 5 all!"); // :)
+            Console.WriteLine("Hi 6 all!");
             Console.WriteLine("Yo!");
         }
     }
