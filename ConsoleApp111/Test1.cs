@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp111
 {
-    class Program
+    class Test1
     {
-        static void Main(string[] args)
+        public static void Log()
         {
-            Console.WriteLine("Hi 2 all!");
-            Console.WriteLine("Yo!");
+            Console.WriteLine("Go!");
         }
     }
 }
