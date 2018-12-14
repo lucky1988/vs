@@ -11,6 +11,7 @@ namespace ConsoleApp111
         static void Main(string[] args)
         {
             Console.WriteLine("Hi 2 all!");
+            Console.WriteLine("Hi 3 all!");
             Console.WriteLine("Yo!");
         }
     }
